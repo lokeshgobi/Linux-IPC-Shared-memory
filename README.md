@@ -51,7 +51,8 @@ int main()
 
 ## OUTPUT
 
-![Uploading image.png…]()
+<img width="753" height="174" alt="image" src="https://github.com/user-attachments/assets/5734817f-7e2e-4bd5-a9e0-fc9bbbb907e9" />
+
 
 # RESULT:
 The program is executed successfully.
